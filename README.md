@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Sayandeep — Full-Stack Developer.<br><br>
 Check my portfolio: https://sayandeep.space
-<br><br>I build end-to-end, production-ready web applications using the MERN stack, with a strong focus on scalability, clean architecture, and real-world usability.<br>Comfortable working with JavaScript, TypeScript, Go, and C++ across frontend, backend, and system-level components.<br><br>I enjoy taking products from idea → MVP → deployable systems used by teams and organizations.<br>Currently exploring system design, backend performance, and AI-powered workflows.<br><br>Always learning. Always shipping.<br><br>📫 Open to collaborating on SaaS and building amazing products.<br>
+<br><br>I build production-ready web applications using the MERN stack, with a strong focus on scalability, clean architecture, and real-world usability.<br>Comfortable working with JavaScript, TypeScript, Go, and C++ across frontend, backend, and system-level components.<br><br>I enjoy taking products from idea → MVP → deployable systems used by teams and organizations.<br>Currently exploring system design, backend performance, and AI-powered workflows.<br><br>Always learning. Always shipping.<br><br>📫 Open to collaborating on SaaS and building amazing products.<br>
 
 
 ## 🌐 Socials:
